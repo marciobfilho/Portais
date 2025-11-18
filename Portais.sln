@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{4FBD193C-0435-8860-6AB5-CD4655D3BF14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{EF33B1F8-E5E1-2E4F-B480-0314746A29AE}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{52FA582B-DE51-F9AC-034C-EDDD5C86DD0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj", "{963DA4CD-2FD8-0EB3-F558-BC64EBA3F307}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +19,18 @@ Global
 		{4FBD193C-0435-8860-6AB5-CD4655D3BF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FBD193C-0435-8860-6AB5-CD4655D3BF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FBD193C-0435-8860-6AB5-CD4655D3BF14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF33B1F8-E5E1-2E4F-B480-0314746A29AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF33B1F8-E5E1-2E4F-B480-0314746A29AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF33B1F8-E5E1-2E4F-B480-0314746A29AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF33B1F8-E5E1-2E4F-B480-0314746A29AE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{52FA582B-DE51-F9AC-034C-EDDD5C86DD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{52FA582B-DE51-F9AC-034C-EDDD5C86DD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52FA582B-DE51-F9AC-034C-EDDD5C86DD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52FA582B-DE51-F9AC-034C-EDDD5C86DD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963DA4CD-2FD8-0EB3-F558-BC64EBA3F307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963DA4CD-2FD8-0EB3-F558-BC64EBA3F307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963DA4CD-2FD8-0EB3-F558-BC64EBA3F307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963DA4CD-2FD8-0EB3-F558-BC64EBA3F307}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
